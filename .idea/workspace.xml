@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d17299fe-5e3c-4f5d-b8e5-2b5efb60d427" name="Changes" comment="feat: Singleton 패턴 추가">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/factory/Americano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/factory/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/factory/CoffeeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/factory/CoffeeMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/factory/DefaultCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/factory/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/factory/Latte.java" afterDir="false" />
+    <list default="true" id="d17299fe-5e3c-4f5d-b8e5-2b5efb60d427" name="Changes" comment="feat: Factory 패턴 &amp; Enum 활용 추가">
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/strategy/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/strategy/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/strategy/KAKAOCardStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/strategy/NAVERPayStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/strategy/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/strategy/ShoppingCart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -85,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670234130959</updated>
       <workItem from="1670234132359" duration="5102000" />
-      <workItem from="1670283974773" duration="348000" />
+      <workItem from="1670283974773" duration="4092000" />
     </task>
     <task id="LOCAL-00001" summary="CS 스터디 - first init">
       <created>1670250597604</created>
@@ -101,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670250708667</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: Factory 패턴 &amp; Enum 활용 추가">
+      <created>1670284358809</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670284358809</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +126,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CS 스터디 - first init" />
     <MESSAGE value="feat: Singleton 패턴 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Singleton 패턴 추가" />
+    <MESSAGE value="feat: Factory 패턴 &amp; Enum 활용 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Factory 패턴 &amp; Enum 활용 추가" />
   </component>
 </project>
